@@ -33,3 +33,8 @@ the data will automatically store in the database.
 
 To search for a student, type the student's name in the text field and click the search button once you are done.
 <img src='images/search.png'>
+
+## Database
+We use mysql database to store our data. We used two tables here one is called user_info.
+We use it to store for the user's username/password for log in. 
+The other one is student_info which used for store student's data that user imported.
