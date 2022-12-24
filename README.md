@@ -1,7 +1,7 @@
 # Student_Grade_Management_System
 
 ## Description
-This is a Student grade management system implemented with java-swing and mysql database.
+This is a student grade management system implemented with java-swing and mysql database.
 We use Jframe in java-swing to build our whole system. We also connect with
 mysql database to support store/update data of user's/student's information.
 
