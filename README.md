@@ -25,14 +25,14 @@ User can create a new account or reset their password if needed.
 Once we log in successfully, we can see the main view of our management system.
 The system support different types of functions like add new student, search for student
 , update and delete.
-<p align="center"><img src='images/main_view.png' height=600 width=600></p>
+<p align="center"><img src='images/main_view.png'></p>
 
 To add a student, simply click the add new student button on the main view, and type in the student information,
 the data will automatically store in the database.
-<p align="center"><img src='images/add.png' height=600 width=600></p>
+<p align="center"><img src='images/add.png' height=600 width=550></p>
 
 To search for a student, type the student's name in the text field and click the search button once you are done.
-<p align="center"><img src='images/search.png' height=600 width=600></p>
+<p align="center"><img src='images/search.png'></p>
 
 ## Database
 We use mysql database to store our data. We used two tables here one is called user_info.
