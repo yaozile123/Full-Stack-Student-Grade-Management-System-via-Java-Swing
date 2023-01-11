@@ -1,4 +1,4 @@
-# Student_Grade_Management_System
+# Full-Stack-Student-Grade-Management-System-via-Java-Swing
 
 ## Description
 This is a student grade management system implemented with java-swing and mysql database.
