@@ -11,7 +11,7 @@ mysql database to support store/update data of user's/student's information.
 Our student management system support login/register/reset password functions.
 To log in the system, simply type in your username and password.
 
-  <img src='images/login_view.png'>
+  <p align="center"><img src='images/login_view.png' height=400 width=600></p>
 
 Make sure we use the correct username/password that matches record in database
 , otherwise we cannot log in successfully.
