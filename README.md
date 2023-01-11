@@ -15,24 +15,24 @@ To log in the system, simply type in your username and password.
 
 Make sure we use the correct username/password that matches record in database
 , otherwise we cannot log in successfully.
-<img src='images/login_fail.png'>
+<p align="center"><img src='images/login_fail.png' height=400 width=600></p>
 User can create a new account or reset their password if needed.
-<img src='images/register.png'>
-<img src='images/reset_password.png'>
+<p align="center"><img src='images/register.png' height=400 width=600></p>
+<p align="center"><img src='images/reset_password.png' height=400 width=600></p>
 
 - Main view
 
 Once we log in successfully, we can see the main view of our management system.
 The system support different types of functions like add new student, search for student
 , update and delete.
-<img src='images/main_view.png'>
+<p align="center"><img src='images/main_view.png' width=600></p>
 
 To add a student, simply click the add new student button on the main view, and type in the student information,
 the data will automatically store in the database.
-<img src='images/add.png'>
+<p align="center"><img src='images/add.png' height=400 width=600></p>
 
 To search for a student, type the student's name in the text field and click the search button once you are done.
-<img src='images/search.png'>
+<p align="center"><img src='images/search.png' height=400 width=600></p>
 
 ## Database
 We use mysql database to store our data. We used two tables here one is called user_info.
