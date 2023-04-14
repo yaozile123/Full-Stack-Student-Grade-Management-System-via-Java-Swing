@@ -15,7 +15,7 @@ To log in the system, simply type in your username and password.
 
 Make sure we use the correct username/password that matches record in database
 , otherwise we cannot log in successfully.
-<p align="center"><img src='images/login_fail.png' height=400 width=600></p>
+<p align="center"><img src='images/login_fail.png' height=200 width=300></p>
 User can create a new account or reset their password if needed.
 <p align="center"><img src='images/register.png' height=400 width=600></p>
 <p align="center"><img src='images/reset_password.png' height=400 width=600></p>
